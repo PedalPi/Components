@@ -4,11 +4,7 @@ List of components developed.
 
 ## Use
 
-The [Application](http://pedalpi-application.readthedocs.io/en/latest/) documentation informs how use the components.
-
-```
-pip3 install PedalPi-<component-name>
-```
+[Application documentation](http://pedalpi-application.readthedocs.io/en/latest/#extending) informs how use the components.
 
 ## List
 
